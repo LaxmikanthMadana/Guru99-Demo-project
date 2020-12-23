@@ -1,0 +1,9 @@
+com\miniProj\pageObjects\LoginPage.class
+com\miniProj\testCases\TC_LoginTestCase_001.class
+com\miniProj\testCases\baseClass.class
+com\miniProj\testCases\TC_AddCustomer_003.class
+com\miniProj\utilities\XLUtilities.class
+com\miniProj\testCases\TC_LoginDDT_002.class
+com\miniProj\utilities\Reporting.class
+com\miniProj\pageObjects\AddCustomer.class
+com\miniProj\utilities\ReadConfig.class
